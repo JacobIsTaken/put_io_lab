@@ -1,0 +1,4 @@
+# ignorujemy te pliki
+*.class
+.idea
+*.iml
