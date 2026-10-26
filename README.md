@@ -1,2 +1,1 @@
-# Project Init
-Dane autora
+# Repozytorium do laboratoriów IO
