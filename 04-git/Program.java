@@ -12,7 +12,7 @@ public class Program {
             double unitPrice = Double.parseDouble(args[1]);
             double discount = Double.parseDouble(args[2]);
 
-            if (quantity < 0) {
+            if (quantity <= 0) {
                 System.err.println("Błąd: liczba produktów nie może być ujemna");
                 System.exit(1);
             }
